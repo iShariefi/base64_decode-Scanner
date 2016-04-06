@@ -1,3 +1,5 @@
+```php
+
 // Set to your email here:
 
 define('SEND_EMAIL_ALERTS_TO','youremail@example.com');
@@ -56,3 +58,5 @@ class phpMalCodeScan {
 ini_set('memory_limit', '-1'); ## Avoid memory errors (i.e in foreachloop)
 new phpMalCodeScan;
 ?>
+
+```
