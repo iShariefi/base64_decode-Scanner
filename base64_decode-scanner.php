@@ -1,3 +1,5 @@
+<?php
+
 // Set to your email here:
 
 define('SEND_EMAIL_ALERTS_TO','youremail@example.com');
