@@ -6,4 +6,4 @@ Special thanks to **Dr. Rochak Chauhan**, as this was based on his idea.
 
 Read the blog post on [iNfernalBlog](https://syedshariefi.com) to understand how to utilize this properly...
 
-https://shuvo.rocks/a-simple-script-to-find-base64_decode
+**Blog Post:** https://syedshariefi.com/a-simple-script-to-find-base64_decode
